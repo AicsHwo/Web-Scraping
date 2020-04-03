@@ -5,6 +5,7 @@ tutorial of web scrapping, using google chrome, requests and BeautifulSoup4 unde
 ## Tutorial 1. Fetch images from Hinatazaka46 official (Sasaki Mirei)
 
 This idol her name is 佐々木美玲.
+
 ![alt text](1.Hinatazaka46_SasakiMirei/0ae13d065f7cd918bf914d25ce056.jpg "佐々木美玲")
 
 From the website, we can view element structure via CTRL-SHIFT-I hotkey using Chrome.
